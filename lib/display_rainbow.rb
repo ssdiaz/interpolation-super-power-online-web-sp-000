@@ -6,7 +6,7 @@
 
 def display_rainbow (color)
   #print "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
-  print "R: #{color[0]}"
+  print "R: #{color[0]}, "
   print "O: #{color[1]}"
   print "Y: #{color[2]}"
   print "G: #{color[3]}"
