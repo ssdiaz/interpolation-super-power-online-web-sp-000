@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-colors = ["R","O","Y","G","B","I",V"]
+#colors = ["R","O","Y","G","B","I",V"]
 
 
 
