@@ -1,9 +1,9 @@
 # Write your #display_rainbow method here
 #colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 #= "red", "orange", "yellow", "green", "blue", "indigo", "violet"
-color = "red", "orange", "yellow", "green", "blue", "indigo", "violet"
+color_array = "red", "orange", "yellow", "green", "blue", "indigo", "violet"
 
-def display_rainbow (color_array)
+def display_rainbow (color)
   #print "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
   print "R: #{color[0]}, "
   print "O: #{color[1]}, "
