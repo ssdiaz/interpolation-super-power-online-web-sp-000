@@ -12,7 +12,7 @@ def display_rainbow (color)
   print "G: #{color[3]}, "
   print "B: #{color[4]}, "
   print "I: #{color[5]}, "
-  print "V: #{color[6]}"
+  print "V: #{color[6]} "
 end
 
 color_array = "red", "orange", "yellow", "green", "blue", "indigo", "violet"
