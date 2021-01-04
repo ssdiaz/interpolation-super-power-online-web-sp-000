@@ -5,11 +5,12 @@
 
 
 def display_rainbow (colors)
-  print "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
-
-
-  puts "The first letter in the alphabet is: #{letters[1]}"
-  puts "The second letter in the alphabet is: #{letters[0]}"
-  puts "The third letter in the alphabet is: #{letters[2]}"
-
+  #print "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
+  puts "R: #{color[0]}"
+  puts "O: #{color[1]}"
+  puts "Y: #{color[2]}"
+  puts "G: #{color[3]}"
+  puts "B: #{color[4]}"
+  puts "I: #{color[5]}"
+  puts "V: #{color[6]}"
 end
