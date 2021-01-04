@@ -14,3 +14,5 @@ def display_rainbow (color)
   puts "I: #{color[5]}"
   puts "V: #{color[6]}"
 end
+
+color_array = "red", "orange", "yellow", "green", "blue", "indigo", "violet"
